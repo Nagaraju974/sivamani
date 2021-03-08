@@ -3,3 +3,6 @@
 < am good >
 < what about >
 < nothing >
+< enough >
+< its ok >
+< ok ok .. >
